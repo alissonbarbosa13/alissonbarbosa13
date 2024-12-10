@@ -19,7 +19,7 @@
 
 <div align="center" style="display: flex; justify-content: center;">
   <a href="https://github.com/alissonbarbosa13">
-    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=alissonbarbosa13&show_icons=true&theme=one_dark_pro&include_all_commits=true"/>
+    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=alissonbarbosa13&show_icons=true&theme=one_dark_pro&include_all_commits=true"/>
     <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonbarbosa13&layout=compact&langs_count=7&theme=one_dark_pro"/>
   </a>
 </div>
